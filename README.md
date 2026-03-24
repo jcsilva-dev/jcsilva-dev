@@ -1,15 +1,30 @@
 # Hi 👋, I'm José Carlos Silva
 
-🚀 **Back-End Developer in training | Focused on Python & Django**  
-🇧🇷 Brazil
+🚀 **Back-End Developer in training | Python & Django**  
+🇧🇷 Brazil  
 
 ---
 
 ## 🧠 About Me
 
-I am currently transitioning into the software development field, focusing on building **real back-end systems** using **Python and Django**.
+I am currently transitioning into the software development field, focused on building **real back-end systems** using **Python and Django**.
 
-My goal is to become a professional developer capable of creating **scalable, well-structured, and business-oriented applications**.
+My goal is to become a developer capable of creating **scalable, well-structured, and business-oriented applications**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-333?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -18,35 +33,28 @@ My goal is to become a professional developer capable of creating **scalable, we
 - 🏗️ Building real back-end systems with Django  
 - 🧩 Clean code and project organization  
 - 🗄️ Database modeling and relationships  
-- 🔐 Authentication and security systems  
-- ⚙️ Business logic implementation  
-- 🌐 Web applications with real-world use cases  
-- 📈 Continuous improvement and deep learning  
+- 🔐 Authentication and security  
+- ⚙️ Business logic  
+- 🌐 Real-world web applications  
+- 📈 Continuous improvement  
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-### Backend
-- Python  
-- Django  
-- PostgreSQL  
-- SQL  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcsilva-dev&show_icons=true&theme=dark)
 
-### Tools & Workflow
-- Git  
-- GitHub  
-- VS Code  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
 
 ---
 
 ## 🚀 Current Goals
 
 - Become a professional back-end developer  
-- Build complete and scalable Django projects  
-- Master database design and performance  
-- Start working as a freelance developer  
-- Create systems that solve real business problems  
+- Build scalable Django projects  
+- Master database performance  
+- Work as a freelance developer  
+- Solve real business problems  
 
 ---
 
@@ -59,10 +67,9 @@ My goal is to become a professional developer capable of creating **scalable, we
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: *(coloque seu link aqui)*  
-- 💻 GitHub: *(já é esse perfil)*  
+- 💼 LinkedIn: (coloque aqui)
 
 ---
 
-⭐ Always improving, building, and learning  
-🚀 Open to opportunities, collaborations, and real projects
+⭐ Always improving, building and learning
+🚀 Open to opportunities and real projects
