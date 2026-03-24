@@ -40,21 +40,22 @@ My goal is to become a developer capable of creating **scalable, well-structured
 
 ## 🧩 What I'm Focused On
 
-✨ Building real back-end systems with Django  
-✨ Clean code and scalable architecture  
-✨ Database modeling and relationships  
-✨ Authentication and security systems  
-✨ Business logic implementation  
-✨ Real-world web applications  
-✨ Continuous improvement and deep learning  
+- 🏗️ Building real back-end systems with Django  
+- 🧩 Clean code and project organization  
+- 🗄️ Database modeling and relationships  
+- 🔐 Authentication and security systems  
+- ⚙️ Business logic implementation  
+- 🌐 Real-world web applications  
+- 📈 Continuous improvement  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight"/>
 </p>
 
 ---
@@ -62,10 +63,10 @@ My goal is to become a developer capable of creating **scalable, well-structured
 ## 🚀 Current Goals
 
 - Become a professional back-end developer  
-- Build complete and scalable Django projects  
-- Master database performance  
-- Start working as a freelance developer  
-- Create systems that solve real business problems  
+- Build scalable Django systems  
+- Improve database performance  
+- Start working as a freelancer  
+- Solve real business problems  
 
 ---
 
@@ -87,6 +88,5 @@ My goal is to become a developer capable of creating **scalable, well-structured
 ---
 
 <p align="center">
-⭐ Always improving, building and learning <br>
-🚀 Open to opportunities and real projects
+🚀 Always improving • Building • Learning
 </p>
