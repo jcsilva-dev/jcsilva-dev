@@ -82,7 +82,7 @@ My goal is to become a developer capable of creating **scalable, well-structured
 ## 🤝 Connect with Me
 
 <p align="center">
-  💼 LinkedIn: (www.linkedin.com/in/jose-carlos-293a98370)
+  💼 LinkedIn: (www.linkedin.com/in/jcsilva-dev)
 </p>
 
 ---
