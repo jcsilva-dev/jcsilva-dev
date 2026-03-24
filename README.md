@@ -53,9 +53,9 @@ My goal is to become a developer capable of creating **scalable, well-structured
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jcsilva-dev&show_icons=true&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?jcsilva-dev&theme=tokyonight"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ My goal is to become a developer capable of creating **scalable, well-structured
 ## 🤝 Connect with Me
 
 <p align="center">
-  💼 LinkedIn: (coloque aqui)
+  💼 LinkedIn: (www.linkedin.com/in/jose-carlos-293a98370)
 </p>
 
 ---
