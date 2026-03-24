@@ -1,7 +1,9 @@
 # Hi 👋, I'm José Carlos Silva
 
-🚀 **Back-End Developer in training | Python & Django**  
-🇧🇷 Brazil  
+<p align="center">
+  🚀 <strong>Back-End Developer in training | Python & Django</strong><br>
+  🇧🇷 Brazil
+</p>
 
 ---
 
@@ -15,61 +17,76 @@ My goal is to become a developer capable of creating **scalable, well-structured
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=sqlite)
+### 🚀 Backend
 
-### Tools
-![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-333?style=for-the-badge&logo=visualstudiocode)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧩 What I'm Focused On
 
-- 🏗️ Building real back-end systems with Django  
-- 🧩 Clean code and project organization  
-- 🗄️ Database modeling and relationships  
-- 🔐 Authentication and security  
-- ⚙️ Business logic  
-- 🌐 Real-world web applications  
-- 📈 Continuous improvement  
+✨ Building real back-end systems with Django  
+✨ Clean code and scalable architecture  
+✨ Database modeling and relationships  
+✨ Authentication and security systems  
+✨ Business logic implementation  
+✨ Real-world web applications  
+✨ Continuous improvement and deep learning  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcsilva-dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🚀 Current Goals
 
 - Become a professional back-end developer  
-- Build scalable Django projects  
+- Build complete and scalable Django projects  
 - Master database performance  
-- Work as a freelance developer  
-- Solve real business problems  
+- Start working as a freelance developer  
+- Create systems that solve real business problems  
 
 ---
 
 ## 💡 Philosophy
 
-> "I'm not just learning how to code.  
-> I'm learning how to build systems that solve real problems and generate value."
+<p align="center">
+  <em>"I'm not just learning how to code.<br>
+  I'm learning how to build systems that solve real problems and generate value."</em>
+</p>
 
 ---
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: (coloque aqui)
+<p align="center">
+  💼 LinkedIn: (coloque aqui)
+</p>
 
 ---
 
-⭐ Always improving, building and learning
+<p align="center">
+⭐ Always improving, building and learning <br>
 🚀 Open to opportunities and real projects
+</p>
