@@ -1,4 +1,4 @@
-# Hi 👋, I'm José Carlos Silva
+# Hi , I'm José Carlos Silva
 
 <p align="center">
   🚀 <strong>Back-End Developer in training | Python & Django</strong><br>
