@@ -1,92 +1,90 @@
-# Hi , I'm José Carlos Silva
+<div align="center">
 
-<p align="center">
-  🚀 <strong>Back-End Developer in training | Python & Django</strong><br>
-  🇧🇷 Brazil
-</p>
+# José Carlos Silva
 
----
-
-## 🧠 About Me
-
-I am currently transitioning into the software development field, focused on building **real back-end systems** using **Python and Django**.
-
-My goal is to become a developer capable of creating **scalable, well-structured, and business-oriented applications**.
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Backend
+### Backend-focused developer building real systems with Python & Django — with an eye on architecture, business logic, and long-term maintainability.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/jcsilva-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Brazil-2E7D32?style=flat-square&logo=googlemaps&logoColor=white" alt="Location: Brazil"/>
 </p>
 
----
+</div>
 
-### ⚙️ Tools & Workflow
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+### About
 
----
+I build backend-driven web applications with Python and Django, and most of my attention goes into how a system is structured rather than just how a feature runs. Before writing a line of business logic, I think through domain boundaries, data modeling, and the rules that actually hold a real application together.
 
-## 🧩 What I'm Focused On
+My process is usually the same regardless of the feature: build it end-to-end, test it, trace how the pieces actually connect under the hood, and only then go deeper into the concepts behind it. That loop is how I've moved from following tutorials to making my own architectural calls — and living with the consequences of those calls, which is where the real learning happens.
 
-- 🏗️ Building real back-end systems with Django  
-- 🧩 Clean code and project organization  
-- 🗄️ Database modeling and relationships  
-- 🔐 Authentication and security systems  
-- ⚙️ Business logic implementation  
-- 🌐 Real-world web applications  
-- 📈 Continuous improvement  
+<br>
 
----
+### Currently Building
 
-## 📊 GitHub Activity
+**E-commerce / SaaS Platform — Django**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcsilva-dev&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?jcsilva-dev&theme=tokyonight"/>
-</p>
+A storefront platform built to eventually support multiple independent stores — conceptually close to how a platform like Shopify is structured — developed incrementally, one solid layer at a time.
 
----
+What it covers today:
 
-## 🚀 Current Goals
+- Product catalog with variants, categories, and brands
+- Cart, checkout, and promotional campaigns / discounts
+- WhatsApp-based checkout flow for direct customer contact
+- Admin-side store and content management, with attendant roles
+- Product recommendations, banners, and storefront theme customization
+- Responsive, mobile-first storefront
 
-- Become a professional back-end developer  
-- Build scalable Django systems  
-- Improve database performance  
-- Start working as a freelancer  
-- Solve real business problems  
+The codebase is organized into Django apps split by domain, with business rules pulled out of views and into a services layer. That separation is also the groundwork for multi-tenancy — a direction the architecture is being built toward, not something already shipped.
 
----
+<br>
 
-## 💡 Philosophy
+### How I Approach Engineering
 
-<p align="center">
-  <em>"I'm not just learning how to code.<br>
-  I'm learning how to build systems that solve real problems and generate value."</em>
-</p>
+A few things that consistently shape how I design and write code:
 
----
+- Splitting the domain into modular Django apps instead of one growing monolith
+- Keeping views thin and moving business rules into services and reusable logic
+- Modeling data deliberately — relationships, constraints, and query efficiency through the ORM
+- Treating authentication, validation, and testing as part of the feature, not an afterthought
+- Writing with the next six months of changes in mind, not just the next deploy
 
-## 🤝 Connect with Me
+<br>
 
-<p align="center">
-  💼 LinkedIn: (www.linkedin.com/in/jcsilva-dev)
-</p>
+### Tech Stack
 
----
+**Backend**
 
-<p align="center">
-🚀 Always improving • Building • Learning
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+
+<br>
+
+### GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jcsilva-dev&show_icons=true&hide_border=true&count_private=true" alt="José's GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jcsilva-dev&layout=compact&hide_border=true" alt="Top languages"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/jcsilva-dev">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
